@@ -34,6 +34,7 @@ Ex: api/currency?from=BTC&to=EUR&amount=123.45
 -   **Django Rest Framework**: 3.14
 -   **Django**: 4.2
 -   **Python**: 3.10
+-   **Postgres**: 14.10
 
 ```
   
